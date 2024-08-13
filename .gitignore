@@ -1,0 +1,47 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Avatar Models
+*.gltf
+*.glb
+asian_female.bin
+*.fbx
+*.blend
+
+# Avatar textures
+public/images
+public/Std*
+public/Base*
+public/Hair*
+public/Cord*
+public/FABRIC*
+public/Fabric*
+public/Image*
+public/Inner*
+public/Layer*
+public/Plastic*
+public/Sole*
+public/Top*
+
+.vscode

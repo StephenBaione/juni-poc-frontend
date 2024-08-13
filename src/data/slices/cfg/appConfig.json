@@ -1,0 +1,7 @@
+{
+    "prod": {},
+    "stg": {},
+    "dev": {
+        "base_api_route": "http://localhost:8001"
+    }
+}
